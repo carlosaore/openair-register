@@ -1,8 +1,14 @@
+import HeroImg1 from "./components/HeroImg1";
+import Info from "./components/Info";
+import Register from "./components/Register";
+
 function App() {
   return (
-    <div>
-      <p>test</p>
-    </div>
+    <>
+      <HeroImg1 />
+      <Info />
+      <Register />
+    </>
   );
 }
 
