@@ -87,7 +87,7 @@ const Form = () => {
                     <option value="tarde">Tarde</option>
                 </select>
             </label>
-            <input id="submit" type="submit" value="send" onClick={sendData} /> 
+            <input id="submit" type="submit" value="enviar" onClick={sendData} /> 
         </StyledForm>
     </>
 
