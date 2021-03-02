@@ -5,7 +5,9 @@ import Register from "./components/Register";
 function App() {
   return (
     <>
+      <HeroImg1 />
       <Info />
+      <Register />
     </>
   );
 }
