@@ -15,6 +15,7 @@ const Barra = styled.div`
 
 const Img = styled.img`
   height: 100px;
+  height: 70px;
   margin-left: 5px;
 `
 
