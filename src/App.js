@@ -22,7 +22,6 @@ const Img = styled.img`
 function App() {
   return (
     <>
-      <Barra>
       <HeroImg1 />
       <Info />
       <Register />
